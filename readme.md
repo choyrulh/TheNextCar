@@ -1,4 +1,4 @@
-﻿# Currency Apps
+﻿# The Next Car
 Aplikasi ini menunjukkan simulasi mobil pintar semacam mobil tesla yg menggunakan teknologi modern.
 # Scope & Functionalities
 - User hanya menggunakan sentuhan layar untuk menutup pintu 
